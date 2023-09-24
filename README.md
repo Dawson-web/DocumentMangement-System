@@ -6,14 +6,13 @@
 
 <br/>
 
-**npm i**
+# npm i
 
 <br/>
 
-**npm start**
+# npm start
 
 <br/>
-**使用前先查阅api文件夹下面的REMAND.md**
 
 **这是一个文件管理系统实现了，文件的查询、添加、删除、下载和重命名**
 
