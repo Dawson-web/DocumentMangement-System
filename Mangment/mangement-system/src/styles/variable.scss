@@ -1,0 +1,18 @@
+$app-max-width: 1600px;
+$nav-bar-height: 70px;
+$mobile-height-breakpoint: 900px;
+
+$border-radius-lg: 10px;
+$border-radius-md: 4px;
+$box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+$card-gap: 2rem;
+
+$page-bg-color-light: #f1f2f3;
+$page-bg-color-dark: #0e0d0c;
+$page-grid-cloumns: repeat(2, clamp(100px, 30vw, 500px));
+$page-grid-rows: repeat(2, clamp(40px, 7vh, 100px));
+
+$text-color-light: #606266;
+
+$element-plus-blue: #409eff;
